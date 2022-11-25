@@ -1,0 +1,11 @@
+{
+  "name": "lightwork",
+  "version": "0.1.0",
+  "description": "An unabashedly opinionated website framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Simeon Griggs",
+  "license": "ISC"
+}
